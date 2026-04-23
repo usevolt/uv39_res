@@ -1,4 +1,4 @@
-420383387330083
+450981037641480
 kemet
 0603
 
@@ -349,6 +349,13 @@ A2035-H_GPS
 0
 31
 31
+usevolt
+AMPHENOL_GSB1C41110SSHR
+
+
+0
+16
+16
 usevolt
 AMPSEAL_8_POS_776275-1
 
@@ -945,6 +952,13 @@ MLF_8
 9
 9
 usevolt
+MODULE_ESP32-C3-WROOM-02-H4
+
+
+0
+39
+39
+usevolt
 MOLEX_MICRO-FIT_10WAY_V
 
 
@@ -986,6 +1000,13 @@ MSOP-8EP
 0
 9
 9
+usevolt
+MSOP-8EP_NO_GNDPAD
+
+
+0
+8
+8
 usevolt
 PG-TDSON-8-4
 
@@ -1168,6 +1189,13 @@ S10B-XH-A
 0
 10
 10
+usevolt
+S7061-42R
+
+
+0
+1
+1
 usevolt
 SC-74A
 
@@ -1526,6 +1554,13 @@ USEWOOD CONTROLLER BOARD VERSION 1.0
 40
 40
 usevolt
+Untitled
+
+
+0
+0
+0
+usevolt
 VMN2M
 
 
@@ -1574,6 +1609,13 @@ XB3-24Z8CM-J
 0
 34
 34
+usevolt
+XCVR_ESP32-S3-WROOM-1-N4
+
+
+0
+61
+61
 usevolt
 XHP70B-00-0000-0D0BN440E_6V
 
@@ -1665,6 +1707,13 @@ phoenixcontact_1190372
 0
 20
 20
+usevolt
+pvgamp4pin
+
+
+0
+4
+4
 usevolt
 superseal_26pin_vert
 
